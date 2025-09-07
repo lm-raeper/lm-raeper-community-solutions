@@ -16,3 +16,8 @@ Use these as references, adapt them to your needs, and feel free to learn from o
 ---
 
 > ⚡ This is a **living collection**: expect a mix of quick fixes, experiments, and reusable patterns rather than polished, production-ready apps.
+
+## Day 2 – Git basics practice
+- Practiced clone, branch, add, commit, push
+- Opened a PR from feature branch to main
+
